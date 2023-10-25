@@ -74,7 +74,7 @@ typing_extensions==4.2.0
 urllib3==1.26.9
 utils==1.0.1
 wandb==0.12.19
-Werkzeug==2.1.2
+Werkzeug==3.0.1
 yacs==0.1.8
 yarl==1.7.2
 zipp==3.8.0
